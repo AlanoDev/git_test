@@ -1,4 +1,8 @@
 hello git!
 hello Alano!
+<<<<<<< HEAD
 nice to meet you !
 nice to meet you too!
+how old are you ?
+=======
+>>>>>>> 654f0d58ea759c598fcae685780951f893d534ae
